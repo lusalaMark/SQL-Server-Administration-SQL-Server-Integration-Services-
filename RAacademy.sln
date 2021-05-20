@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "RAacademy", "RAacademy.dtproj", "{CAAE2D23-AC1A-420C-BF42-0B9E88895968}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAAE2D23-AC1A-420C-BF42-0B9E88895968}.Development|Default.ActiveCfg = Development
+		{CAAE2D23-AC1A-420C-BF42-0B9E88895968}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6CAA14A-2780-4E72-868C-D8052EFD0EE5}
+	EndGlobalSection
+EndGlobal
